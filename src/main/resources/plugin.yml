@@ -1,0 +1,6 @@
+name: "MenuAPI"
+main: ru.ragnok123.manhunt.ManHuntMinigame
+version: "1.0"
+api: ["1.0.0"]
+author: "Ragnok123"
+depend: ["minigameAPI"]
